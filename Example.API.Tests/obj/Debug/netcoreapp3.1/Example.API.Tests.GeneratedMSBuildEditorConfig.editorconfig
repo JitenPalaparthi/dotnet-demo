@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Example.API.Tests
+build_property.ProjectDir = /home/jiten/workspace/personal/training/boa/github-actions/api/Example.API.Tests/
